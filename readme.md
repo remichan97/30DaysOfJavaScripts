@@ -3,7 +3,9 @@ This repository served as a code archive for the [30 days of Javascript](https:/
 # Challenge Status / Finishing duration
 This is to keep track of the progress, whether I  have finished the challenges on time, or any late challenge completion
 
-- [x] Day 1 (Finished on 12/01/2022)
+This challenge started on January 12th, 2022
+
+- [x] Day 1 (Finished on Jan 12th, 2022)
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 5
