@@ -40,3 +40,4 @@ This challenge started on January 12th, 2022
 
 # Finishing Remark
 This challenge has completed on: TBD
+Total of late completion: TBD
