@@ -7,6 +7,9 @@ This challenge started on January 12th, 2022
 
 - [x] Day 1 (Finished on Jan 12th, 2022)
 - [ ] Day 2
+	- [x] Level 1 (Finished on Jan 12th, 2022)
+	- [ ] Level 2
+	- [ ] Level 3
 - [ ] Day 3
 - [ ] Day 5
 - [ ] Day 6
