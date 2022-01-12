@@ -6,10 +6,10 @@ This is to keep track of the progress, whether I  have finished the challenges o
 This challenge started on January 12th, 2022
 
 - [x] Day 1 (Finished on Jan 12th, 2022)
-- [ ] Day 2
+- [x] Day 2 (All Cleared on Jan 13th, 2022)
 	- [x] Level 1 (Finished on Jan 12th, 2022)
 	- [x] Level 2 (Finished on Jan 13th, 2022)
-	- [ ] Level 3
+	- [x] Level 3 (Finished on Jan 13th, 2022)
 - [ ] Day 3
 - [ ] Day 5
 - [ ] Day 6
