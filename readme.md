@@ -11,7 +11,7 @@ This challenge started on January 12th, 2022
 	- [x] Level 2 (Finished on Jan 13th, 2022)
 	- [x] Level 3 (Finished on Jan 13th, 2022)
 - [ ] Day 3
-	- [ ] Level 1
+	- [x] Level 1 (Finished on Jan 13th, 2022)
 	- [ ] Level 2
 	- [ ] Level 3
 - [ ] Day 5
