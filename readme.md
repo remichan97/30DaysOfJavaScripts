@@ -19,6 +19,9 @@ The challenge begins January 12th, 2022
 	- [x] Level 2 (Finished on Jan 13th, 2022)
 	- [x] Level 3 (Finished on Jan 14th, 2022)
 - [ ] Day 5
+	- [x] Level 1 (Finished on Jan 15th, 2022)
+	- [ ] Level 2 
+	- [ ] Level 3 
 - [ ] Day 6
 - [ ] Day 7
 - [ ] Day 8
