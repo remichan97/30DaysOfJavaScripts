@@ -1,4 +1,8 @@
-const countriesAPI = 'https://restcountries.com/v2/all'
-const catsAPI = 'https://api.thecatapi.com/v1/breeds'
+const countriesAPI = "https://restcountries.com/v2/all";
+const catsAPI = "https://api.thecatapi.com/v1/breeds";
 
 // Print out all the cat names in to catNames variable.
+fetch(catsAPI)
+	.then((response) => response.json())
+	.then((data) => data.forEach(it => console.log(it.name)))
+	.catch((error) => console.log(error));
