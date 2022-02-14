@@ -6,6 +6,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Document</title>
+		<script src="./countries.js"></script>
 
 	</head>
 
@@ -21,11 +22,17 @@
 
 		<div class="countries-container">
 			<div class="countries-wrapper">
-
+				<script>
+					let a;
+					countries.forEach(it => {
+						a = document.createElement('p');
+						a.textContent = it;
+						a.style.border = '2px solid black';
+						a.style.width = '150px'
+						document.body.appendChild(a);
+					});
+				</script>
 			</div>
 		</div>
 	</body>
-	<script src="./script.js"></script>
-	<script src="./countries.js"></script>
-
 </html>
