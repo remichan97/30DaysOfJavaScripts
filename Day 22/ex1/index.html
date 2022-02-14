@@ -13,9 +13,45 @@
 		<h2>30DaysOfJavaScript:DOM Day 2</h2>
 		<h3>Author: Asabeneh Yetayeh</h3>
 		<div class="wrapper">
+			<script>
+				function checkPrime(num) {
+					if (num < 2) {
+						return false;
+					} else {
+						let count = 0;
+						for (let index = 2; index <= Math.sqrt(num); index++) {
+							if (num % index == 0) {
+								count++;
+							}
+						}
+						if (count != 0) {
+							return false;
+						} else {
+							return true;
+						}
+					}
+				}
 
+				let a;
+
+				for (let index = 0; index <= 101; index++) {
+					if (checkPrime(index)) {
+						a = document.createElement('p');
+						a.textContent = index;
+						a.style.color = 'red';
+					} else if (index % 2 == 0){
+						a = document.createElement('p');
+						a.textContent = index;
+						a.style.color = 'green';
+					} else {
+						a = document.createElement('p');
+						a.textContent = index;
+						a.style.color = 'yellow';
+					}
+					document.body.appendChild(a);
+				}
+			</script>
 		</div>
 	</body>
-	<script src="./script.js"></script>
 
 </html>
